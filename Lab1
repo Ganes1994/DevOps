@@ -1,0 +1,11 @@
+Bastion Setup with Bastion sg (public ip)
+Web/Dmz setup with web sg(bastion to web)
+Launch Bastion & Web Instances
+Connection from bastion to web server
+Switch to rootuser
+changing hostname & update
+Install Apache
+
+
+
+Ip : 18.208.161.14
